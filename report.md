@@ -60,9 +60,9 @@ SVM with an RBF kernel performed best, achieving 85.9% accuracy. Sports was the 
 
 ## 6. Reflection on Working with AI Tools
 
-Claude was used extensively throughout this assignment to scaffold the training pipeline, debug environment issues on the Uppmax HPC cluster, and generate the Gradio demo code. The AI was particularly helpful for resolving SLURM job submission errors, fixing package conflicts, and structuring the overall project.
+Claude was used extensively throughout this assignment to scaffold the training pipeline, debug environment issues on the Uppmax HPC cluster, and generate the demo code. The AI was particularly helpful for resolving SLURM job submission errors, fixing package conflicts, and structuring the overall project.
 
-However, all code was reviewed and tested manually. Understanding what each component does — embeddings, StandardScaler, SVM kernel — was essential for debugging and explaining the results. The AI accelerated development significantly but required careful verification at each step, especially when adapting code to the specific server environment.
+However, all code was reviewed and tested manually. Understanding what each component does was essential for debugging and explaining the results. The AI accelerated development significantly but required careful verification at each step, especially when adapting code to the specific server environment.
 
 ---
 
