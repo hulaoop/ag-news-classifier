@@ -1,0 +1,21 @@
+{
+  "best_model": "SVM",
+  "accuracy": 0.8588,
+  "all_models": {
+    "LogisticRegression": {
+      "accuracy": 0.76,
+      "macro_f1": 0.76,
+      "weighted_f1": 0.76
+    },
+    "SVM": {
+      "accuracy": 0.8588,
+      "macro_f1": 0.86,
+      "weighted_f1": 0.86
+    },
+    "RandomForest": {
+      "accuracy": 0.81,
+      "macro_f1": 0.81,
+      "weighted_f1": 0.81
+    }
+  }
+}
